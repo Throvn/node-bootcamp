@@ -11,3 +11,5 @@ I will delete this probably in the future :)
  * How to set up a simple express server.
  
  * How to use templates with hbs.
+
+ * How to use callbacks.
